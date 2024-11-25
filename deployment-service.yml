@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: infinity1224/k8sproject:e2e
+        image: infinity1224/demopro:img1
         ports:
         - containerPort: 3000   # Use port 3000
 
